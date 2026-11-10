@@ -103,36 +103,3 @@ Each vision system has a dedicated results directory:
 
 Results include model outputs for both original and Mooney images, alongside relevant quantitative comparisons and visualisations.
 
-## Project Structure
-
-```text
-Comp-Visual-Perception/
-├── Original/
-├── Mooney/
-├── Subset/
-├── Result_1/
-├── Result_2/
-├── Result_3/
-├── Result_4/
-├── src/
-│   └── cvp/
-│       ├── data/
-│       ├── models/
-│       └── utils/
-├── scripts/
-├── app.py
-├── pyproject.toml
-├── uv.lock
-└── README.md
-```
-
-## Technologies
-
-- Python
-- PyTorch
-- Hugging Face Transformers
-- OpenCV
-- NumPy
-- Gradio
-- uv
-
