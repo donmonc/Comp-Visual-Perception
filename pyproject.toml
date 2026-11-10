@@ -3,13 +3,16 @@ name = "cvp"
 version = "0.1.0"
 requires-python = ">=3.12"
 dependencies = [
+    "accelerate>=1.15.0",
     "gradio>=6.31.0",
     "lightning>=2.6.6",
     "numpy>=2.5.4",
     "opencv-python>=5.0.0.93",
     "pillow>=12.3.0",
+    "qwen-vl-utils>=0.0.8",
     "torch>=2.15.0",
-    "transformers>=5.22.2",
+    "torchvision>=0.29.2",
+    "transformers>=4.49.0",
 ]
 
 [dependency-groups]
@@ -30,3 +33,12 @@ ignore = []
 [tool.ruff.format]
 quote-style = "double"
 indent-style = "space"
+
+[tool.uv.sources]
+torch = { index = "pytorch-cpu" }
+torchvision = { index = "pytorch-cpu" }
+
+[[tool.uv.index]]
+name = "pytorch-cpu"
+url = "https://download.pytorch.org/whl/cpu"
+explicit = true
