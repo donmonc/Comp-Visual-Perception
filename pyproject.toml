@@ -1,0 +1,32 @@
+[project]
+name = "cvp"
+version = "0.1.0"
+requires-python = ">=3.12"
+dependencies = [
+    "gradio>=6.31.0",
+    "lightning>=2.6.6",
+    "numpy>=2.5.4",
+    "opencv-python>=5.0.0.93",
+    "pillow>=12.3.0",
+    "torch>=2.15.0",
+    "transformers>=5.22.2",
+]
+
+[dependency-groups]
+dev = [
+    "ruff>=0.17.4",
+]
+
+[tool.ruff]
+# Target standard line length (same as Black)
+line-length = 88
+target-version = "py312"
+
+[tool.ruff.lint]
+# E/W = pycodestyle, F = Pyflakes, I = isort (import sorting)
+select = ["E", "F", "W", "I"]
+ignore = []
+
+[tool.ruff.format]
+quote-style = "double"
+indent-style = "space"
