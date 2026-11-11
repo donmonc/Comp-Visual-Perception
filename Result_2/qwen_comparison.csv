@@ -1,0 +1,2631 @@
+image_stem,original_file,mooney_file,model_id,prompt,original_response,mooney_response,original_word_count,mooney_word_count,original_json,mooney_json,device
+face_000_idx60,face_000_idx60.png,face_000_idx60.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the angle.
+- Eyebrows: Not distinctly visible due to the angle.
+- Nose: Clearly visible.
+- Mouth: Clearly visible.
+- Ears: Not distinctly visible due to the angle.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.","The image is a black and white silhouette of a person's profile. The following features are visually distinguishable:
+
+- Face outline: The shape of the head and neck is visible.
+- Eyes: The eyes are not clearly discernible due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible but not distinct.
+- Nose: The nose is not clearly defined.
+- Mouth: The mouth is not distinctly visible.
+- Ears: The ears are not visible due to the silhouette style.
+
+The boundaries between facial regions are clear, as the silhouette technique isolates the subject from the background. There is no visible non-face or background content in the image.",65,109,Result_2/original/face_000_idx60.json,Result_2/mooney/face_000_idx60.json,cuda
+face_001_idx205,face_001_idx205.png,face_001_idx205.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Partially visible, showing the side profile.
+- Eyes: Not clearly visible due to the angle and lighting.
+- Eyebrows: Not clearly visible due to the angle and lighting.
+- Nose: Partially visible.
+- Mouth: Not clearly visible due to the angle and lighting.
+- Ears: Partially visible on the right side.
+
+The boundaries between facial regions are somewhat clear but may be ambiguous due to the angle and lighting. There is no visible non-face or background content in the image.","The image shows a black and white silhouette of a person's profile. The visible facial features include:
+
+- Face outline: Clearly defined, showing the shape of the head and neck.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",93,95,Result_2/original/face_001_idx205.json,Result_2/mooney/face_001_idx205.json,cuda
+face_002_idx681,face_002_idx681.png,face_002_idx681.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a blurred background. The person has dark hair and is wearing a light-colored top. The facial features are not clearly distinguishable due to the blurring effect. The boundaries between facial regions are somewhat clear, but the details are indistinct. There is no clear indication of the person's age, gender, or ethnicity.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. There is no visible non-face or background content.",57,50,Result_2/original/face_002_idx681.json,Result_2/mooney/face_002_idx681.json,cuda
+face_003_idx618,face_003_idx618.png,face_003_idx618.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with visible facial features. The face outline is clear, and the facial regions include the eyes, eyebrows, nose, mouth, and ears. The eyes are green, and the eyebrows are slightly arched. The nose is visible, and the mouth is closed with a slight smile. The ears are partially visible on either side of the head. The background appears to be a dark, textured surface.","The image is a black and white silhouette with no visible facial features. There are no discernible facial regions such as the face outline, eyes, eyebrows, nose, mouth, or ears. The image appears to be a simple outline of a person's head and shoulders, but no specific details can be identified. The boundaries between different parts of the silhouette are clear. There is no visible non-face or background content.",70,69,Result_2/original/face_003_idx618.json,Result_2/mooney/face_003_idx618.json,cuda
+face_004_idx715,face_004_idx715.png,face_004_idx715.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Open, showing teeth and lips.
+- Ears: Partially visible, with one earlobe clearly seen.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a human face. The facial features are not clearly distinguishable due to the silhouette style. The outline of the face is visible, but specific details such as eyes, eyebrows, nose, mouth, and ears are not clearly defined. The boundaries between different facial regions are ambiguous, making it difficult to discern individual features. There is no visible non-face or background content in the image.",62,74,Result_2/original/face_004_idx715.json,Result_2/mooney/face_004_idx715.json,cuda
+face_005_idx784,face_005_idx784.png,face_005_idx784.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with dark hair. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being clearly discernible. The ears are also visible. The background includes some blurred structures and foliage, suggesting an outdoor setting. The boundaries between facial regions are relatively clear.","The image appears to be a black and white silhouette of a person's head and shoulders. The following features can be visually distinguished:
+
+- Face outline: The shape of the head and neck is visible.
+- Eyes: The eyes are not distinctly visible due to the silhouette style.
+- Eyebrows: The eyebrows are not clearly defined.
+- Nose: The nose is not distinctly visible.
+- Mouth: The mouth is not distinctly visible.
+- Ears: The ears are not distinctly visible.
+
+The boundaries between facial regions are clear, as the silhouette technique isolates the head from the background. There is no visible non-face or background content in the image.",56,108,Result_2/original/face_005_idx784.json,Result_2/mooney/face_005_idx784.json,cuda
+face_006_idx493,face_006_idx493.png,face_006_idx493.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with light brown hair tied back. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, clearly discernible. The ears are also visible. The background appears to be dark, possibly indicating an indoor setting with a window or door frame. The boundaries between facial regions are clear. There is no visible non-face or background content other than the dark background.","The image is a black and white silhouette. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The eyes are not clearly distinguishable due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible.
+- Nose: The nose is not distinctly visible.
+- Mouth: The mouth is not clearly defined.
+- Ears: The ears are not visible.
+
+The boundaries between facial regions are somewhat clear, but the details are limited due to the silhouette style. There is no visible non-face or background content in the image.",75,108,Result_2/original/face_006_idx493.json,Result_2/mooney/face_006_idx493.json,cuda
+face_007_idx210,face_007_idx210.png,face_007_idx210.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The face outline is visible, with the eyes, eyebrows, nose, and mouth clearly defined. The ears are partially visible on either side of the face. The background appears to be an outdoor setting with a blue sky and some indistinct shapes, possibly indicating a beach or coastal area. The boundaries between facial regions are clear, and there is no ambiguity in the visibility of the features.","The image appears to be a black and white silhouette with no discernible human face. There are no visible facial features such as eyes, eyebrows, nose, mouth, or ears. The image does not show any clear boundaries between different facial regions. The overall shape suggests a person's profile, but specific details are indistinguishable due to the lack of contrast and the absence of a clear face.",75,66,Result_2/original/face_007_idx210.json,Result_2/mooney/face_007_idx210.json,cuda
+face_008_idx497,face_008_idx497.png,face_008_idx497.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present above the eyes.
+- Nose: Visible, with a slight indentation.
+- Mouth: Visible, slightly open.
+- Ears: Partially visible on either side of the head.
+
+There is no visible non-face or background content in the image.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. The image appears to be a stylized representation rather than a photograph of a real person.",62,58,Result_2/original/face_008_idx497.json,Result_2/mooney/face_008_idx497.json,cuda
+face_009_idx535,face_009_idx535.png,face_009_idx535.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with curly hair wearing sunglasses. The face outline, eyes, eyebrows, nose, mouth, and part of the ears are visible. The background appears to be a textured surface, possibly fabric. The boundaries between facial regions are clear.","The image is a black and white silhouette of a person's head and shoulders. The following features are visually distinguishable:
+
+- Face outline: The shape of the head and neck is visible.
+- Eyes: The eyes are not clearly discernible due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible but not distinct.
+- Nose: The nose is not clearly defined.
+- Mouth: The mouth is not distinctly visible.
+- Ears: The ears are not clearly visible.
+
+The boundaries between facial regions are somewhat clear, but the details are limited due to the silhouette style. There is no visible non-face or background content in the image.",41,108,Result_2/original/face_009_idx535.json,Result_2/mooney/face_009_idx535.json,cuda
+face_010_idx452,face_010_idx452.png,face_010_idx452.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with the left eye slightly more open than the right.
+- Eyebrows: Visible, with the left eyebrow slightly higher than the right.
+- Nose: Visible, with a straight shape.
+- Mouth: Visible, with a slight smile.
+- Ears: Visible, with the left ear more prominent than the right.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette of a person. The following features are visually distinguishable:
+
+- Face outline: The silhouette shows the general shape of the head and neck.
+- Eyes: The eyes are represented by two small, oval shapes.
+- Ears: The ears are depicted as small, triangular shapes.
+- Mouth: The mouth is shown as a curved line.
+- Nose: The nose is indicated by a small, vertical line.
+- Face: The entire face is outlined, but specific facial features like the forehead, cheeks, and chin are not clearly defined due to the silhouette style.
+
+The boundaries between facial regions are clear, with each region distinctly outlined. There is no visible non-face or background content in the image.",85,122,Result_2/original/face_010_idx452.json,Result_2/mooney/face_010_idx452.json,cuda
+face_011_idx198,face_011_idx198.png,face_011_idx198.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Partially visible, showing the side profile.
+- Eyes: Visible, with dark irises and eyelashes.
+- Eyebrows: Present, slightly arched above the eyes.
+- Nose: Clearly visible, with a straight shape.
+- Mouth: Partially visible, with lips closed.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette. It appears to depict a person with a head and shoulders. The following features are visually distinguishable:
+
+- Face outline: The silhouette shows the general shape of the head and neck.
+- Eyes: The eyes are not clearly visible due to the silhouette style.
+- Ears: The ears are faintly visible on either side of the head.
+- Mouth: The mouth is not distinctly visible.
+- Nose: The nose is not clearly defined.
+- Face outline: The boundaries between different facial regions are somewhat clear but not entirely distinct.
+
+There is no visible non-face or background content in the image.",80,108,Result_2/original/face_011_idx198.json,Result_2/mooney/face_011_idx198.json,cuda
+face_012_idx554,face_012_idx554.png,face_012_idx554.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with clear visibility of the following facial regions:
+
+- Face outline: The entire face is visible.
+- Eyes: Both eyes are visible, with the left eye slightly more open than the right.
+- Eyebrows: Both eyebrows are visible, with the left eyebrow slightly higher than the right.
+- Nose: The nose is clearly visible.
+- Mouth: The mouth is visible, showing teeth and a smile.
+- Ears: The left ear is partially visible on the right side of the image.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are faintly visible as dark lines above the eyes.
+   - Nose: The nose is not distinctly visible.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a typical human head orientation with the face facing forward.
+4. The boundaries between facial regions are somewhat clear, especially for the eyes and eyebrows.
+5. There is no visible non-face or background content in the image.",97,148,Result_2/original/face_012_idx554.json,Result_2/mooney/face_012_idx554.json,cuda
+face_013_idx659,face_013_idx659.png,face_013_idx659.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The face outline is visible, with the eyes, eyebrows, nose, and mouth clearly defined. The ears are also visible, with one earring clearly seen. The background appears to be an indoor setting with some indistinct shapes and possibly furniture. The boundaries between facial regions are relatively clear.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are faintly visible as dark lines above the eyes.
+   - Nose: The nose is visible as a dark line.
+   - Mouth: The mouth is visible as a dark line.
+   - Ears: The ears are faintly visible as dark shapes on either side of the head.
+3. The relative positions and visible shapes of these regions suggest that the person is facing forward with their head slightly tilted.
+4. The boundaries between facial regions are somewhat clear, but some ambiguity exists due to the silhouette style.
+5. There is no visible non-face or background content in the image.",56,164,Result_2/original/face_013_idx659.json,Result_2/mooney/face_013_idx659.json,cuda
+face_014_idx370,face_014_idx370.png,face_014_idx370.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a beard and mustache. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The person is wearing sunglasses. The background includes wooden panels and a metal structure. The boundaries between facial regions are clear. There is no visible non-face or background content that can be distinctly described.","The image is a black and white silhouette. It appears to depict a person sitting at a piano. The following features can be observed:
+
+- Face outline: The silhouette shows the general shape of a face, including the head and neck.
+- Eyes: The eyes are not distinctly visible due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible but not clearly defined.
+- Nose: The nose is not distinctly visible.
+- Mouth: The mouth is not distinctly visible.
+- Ears: The ears are not distinctly visible.
+- Background: There is a piano visible behind the figure, indicating the setting is likely a music room or studio.",58,109,Result_2/original/face_014_idx370.json,Result_2/mooney/face_014_idx370.json,cuda
+face_015_idx282,face_015_idx282.png,face_015_idx282.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with eyelashes and irises.
+- Eyebrows: Present above the eyes.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Not visible in the image.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white illustration. It shows a human face with distinct facial features. The face outline is clearly defined, and the facial regions such as the eyes, eyebrows, nose, mouth, and ears are distinguishable. The eyes are oval-shaped with visible pupils, the eyebrows are arched above the eyes, the nose is straight with nostrils visible, the mouth is closed with visible lips, and the ears are small and rounded. The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",60,94,Result_2/original/face_015_idx282.json,Result_2/mooney/face_015_idx282.json,cuda
+face_016_idx479,face_016_idx479.png,face_016_idx479.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with a defined shape.
+- Mouth: Visible, with lips and teeth partially visible.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette of a person's profile. The following features are visually distinguishable:
+
+- Face outline: Clearly visible, forming the shape of the head and neck.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",74,96,Result_2/original/face_016_idx479.json,Result_2/mooney/face_016_idx479.json,cuda
+face_017_idx219,face_017_idx219.png,face_017_idx219.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with wet hair. The face outline is visible, along with the eyes, eyebrows, nose, and mouth. The ears are partially visible. The background appears to be outdoors with greenery. The boundaries between facial regions are clear. There is no visible non-face or background content.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. The image appears to be a simple outline without any additional context or background elements.",50,57,Result_2/original/face_017_idx219.json,Result_2/mooney/face_017_idx219.json,cuda
+face_018_idx17,face_018_idx17.png,face_018_idx17.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and eyelashes.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Open, showing teeth and lips.
+- Ears: Not visible in the image.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette of a person's head and shoulders. The following features are visually distinguishable:
+
+- Face outline: The silhouette shows the general shape of the head and neck.
+- Ears: The silhouette indicates the presence of ears on either side of the head.
+- Mouth: The silhouette suggests the presence of a mouth at the lower part of the face.
+- Eyes: The silhouette does not show any distinct features for the eyes.
+- Nose: The silhouette does not show any distinct features for the nose.
+- Face outline: The boundaries between different facial regions are clear.
+
+There is no visible non-face or background content in the image.",68,114,Result_2/original/face_018_idx17.json,Result_2/mooney/face_018_idx17.json,cuda
+face_019_idx540,face_019_idx540.png,face_019_idx540.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a red fez hat with a badge on it. The person has a neutral expression, with their eyes looking slightly to the side. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The background appears to be blurred, suggesting an outdoor setting with trees. The boundaries between facial regions are clear, and there is no visible non-face content in the image.","The image appears to be an abstract representation with no clear human face visible. The visual elements include various shapes and patterns that do not form recognizable facial features such as eyes, eyebrows, nose, mouth, or ears. The boundaries between different shapes are not clear, making it difficult to discern any specific facial regions. There is no distinct background or non-face content present.",72,63,Result_2/original/face_019_idx540.json,Result_2/mooney/face_019_idx540.json,cuda
+face_020_idx57,face_020_idx57.png,face_020_idx57.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+There is no visible non-face or background content in the image.","The image is a black and white silhouette. It appears to depict a person with a distinct head shape and some facial features. The following details can be observed:
+
+1. **Human Face**: Yes, a human face is visible.
+2. **Facial Regions**:
+   - **Face Outline**: The overall shape of the head is discernible.
+   - **Eyes**: The eyes are visible as dark spots.
+   - **Eyebrows**: The eyebrows are faintly visible above the eyes.
+   - **Nose**: The nose is slightly visible.
+   - **Mouth**: The mouth is faintly visible.
+   - **Ears**: The ears are not distinctly visible but appear to be present.
+3. **Relative Positions and Visible Shapes**:
+   - The head is centrally positioned.
+   - The eyes are located near the top of the head.
+   - The nose is situated below the eyes.
+   - The mouth is below the nose.
+   - The ears are not clearly visible but seem to be on either side of the head.
+4. **Boundaries Between Facial Regions**:
+   - The boundaries between the face and the background are clear.
+5. **Visible Non-Face or Background Content**:
+   - There is no distinct non-face",64,181,Result_2/original/face_020_idx57.json,Result_2/mooney/face_020_idx57.json,cuda
+face_021_idx449,face_021_idx449.png,face_021_idx449.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a face visible. The facial features include:
+
+- Face outline: Clear
+- Eyes: Visible, with noticeable eyelashes
+- Eyebrows: Present
+- Nose: Visible
+- Mouth: Open, showing teeth and some food
+- Ears: Not visible
+
+There is no clear indication of the person's ears due to the angle and focus of the image. The background includes a ceiling with a grid pattern and large windows, suggesting an indoor setting.","The image is a black and white silhouette. It appears to depict a person with a face outline, but specific facial features such as eyes, eyebrows, nose, mouth, and ears are not clearly distinguishable due to the silhouette style. The boundaries between different facial regions are not clear, making it difficult to determine the exact shape and position of each feature. There is no visible non-face or background content in the image.",75,72,Result_2/original/face_021_idx449.json,Result_2/mooney/face_021_idx449.json,cuda
+face_022_idx19,face_022_idx19.png,face_022_idx19.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The eyes are open and looking directly at the camera. The nose is prominent, and the mouth is slightly open, revealing part of the teeth. The ears are visible on either side of the head. The background appears to be an outdoor setting with some structures and possibly a sports field. The boundaries between facial regions are clear, and there are no visible non-face or background elements that are distinctly discernible.","The image is a black and white illustration. It depicts a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the stylized nature of the drawing.
+- Eyebrows: Not distinctly visible.
+- Nose: Not distinctly visible.
+- Mouth: Not distinctly visible.
+- Ears: Not distinctly visible.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",94,70,Result_2/original/face_022_idx19.json,Result_2/mooney/face_022_idx19.json,cuda
+face_023_idx444,face_023_idx444.png,face_023_idx444.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils.
+- Mouth: Partially visible, with lips.
+- Ears: Partially visible, with the left ear more prominent.
+
+The background appears to be an outdoor setting with greenery. The boundaries between facial regions are clear. There is no visible non-face or background content.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible due to the silhouette style.
+   - Eyebrows: The eyebrows are faintly visible as dark lines above the eyes.
+   - Nose: The nose is not distinctly visible.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a typical human head orientation with the face facing forward.
+4. The boundaries between facial regions are clear.
+5. There is no visible non-face or background content in the image.",72,141,Result_2/original/face_023_idx444.json,Result_2/mooney/face_023_idx444.json,cuda
+face_024_idx105,face_024_idx105.png,face_024_idx105.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person's face with a clear view of the following facial regions:
+
+- Face outline: Visible
+- Eyes: Clear
+- Eyebrows: Visible
+- Nose: Clear
+- Mouth: Partially visible
+- Ears: Not visible
+
+The background includes a clear blue sky and a body of water, likely an ocean, with some landmasses visible in the distance. The boundaries between facial regions are clear, and there are no visible non-face or background elements that interfere with the clarity of the facial features.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are faintly visible above the eyes.
+   - Nose: The nose is not distinctly visible.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest that the person is looking downward or to the side.
+4. The boundaries between facial regions are somewhat clear, but some ambiguity exists due to the silhouette nature of the image.
+5. There is no visible non-face or background content in the image.",83,151,Result_2/original/face_024_idx105.json,Result_2/mooney/face_024_idx105.json,cuda
+face_025_idx41,face_025_idx41.png,face_025_idx41.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with visible facial features. The face outline is clear, and the facial regions include the eyes, eyebrows, nose, mouth, and ears. The eyes are open and looking directly at the camera. The eyebrows are slightly raised, and the nose is prominent. The mouth is closed, and the ears are visible on either side of the head. The hair appears to be red and is pulled back. There is no visible background content in the image.","The image appears to be a black and white silhouette of a person's face. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the face is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are faintly visible as dark lines.
+   - Nose: The nose is visible as a dark line.
+   - Mouth: The mouth is visible as a dark line.
+   - Ears: The ears are not clearly visible.
+3. The relative positions and visible shapes of these regions suggest a profile view of the face.
+4. The boundaries between facial regions are somewhat clear, but some ambiguity exists due to the silhouette nature of the image.
+5. There is no visible non-face or background content in the image.",81,147,Result_2/original/face_025_idx41.json,Result_2/mooney/face_025_idx41.json,cuda
+face_026_idx609,face_026_idx609.png,face_026_idx609.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The eyes are open and looking slightly to the side. The eyebrows are prominent and arched. The nose is visible, and the mouth is slightly open. The ears are partially visible. There is a microphone attached near the ear, suggesting the person might be speaking or giving a presentation. The background appears to be a red or pinkish color, but specific details about the background are not discernible.","The image is a black and white silhouette. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The eyes are not clearly distinguishable due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible.
+- Nose: The nose is slightly visible but not distinctly defined.
+- Mouth: The mouth is barely visible as a small opening.
+- Ears: The ears are not clearly visible.
+
+The boundaries between facial regions are somewhat clear, but the details are limited due to the silhouette style. There is no visible non-face or background content in the image.",91,115,Result_2/original/face_026_idx609.json,Result_2/mooney/face_026_idx609.json,cuda
+face_027_idx241,face_027_idx241.png,face_027_idx241.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two human faces. The left side of the image features a person with glasses, visible from the forehead to the chin. The right side of the image shows another person with dark hair, visible from the forehead to the chin. The eyes, eyebrows, noses, and mouths of both individuals are clearly visible. The ears of both individuals are partially visible. The background appears to be an outdoor setting with some structures and lights, but specific details about the background are indistinct. The boundaries between the facial regions are clear.","The image is a black and white silhouette. It appears to depict a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",92,89,Result_2/original/face_027_idx241.json,Result_2/mooney/face_027_idx241.json,cuda
+face_028_idx343,face_028_idx343.png,face_028_idx343.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face visible. The facial features include:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+The background includes a yellow object, possibly a seat or part of a vehicle, and a window with a view of trees and a road outside. The boundaries between facial regions are clear, and there is no ambiguity in their visibility.","The image appears to be a black and white silhouette with a blurred, indistinct shape. It is difficult to determine if a human face is visible due to the lack of clear details. The facial regions that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The outlines of the eyes are faintly visible.
+- Eyebrows: The outlines of the eyebrows are barely discernible.
+- Nose: The outline of the nose is faintly visible.
+- Mouth: The outline of the mouth is faintly visible.
+- Ears: The outlines of the ears are barely discernible.
+
+The boundaries between these facial regions are ambiguous and unclear. There is no clear indication of any non-face or background content within the image.",98,128,Result_2/original/face_028_idx343.json,Result_2/mooney/face_028_idx343.json,cuda
+face_029_idx74,face_029_idx74.png,face_029_idx74.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with a straight shape.
+- Mouth: Smiling, showing teeth.
+- Ears: Partially visible on the right side.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette with a person's head and shoulders visible. The face outline is clearly defined, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable but appear as dark shapes against the lighter background. The ears are also visible, though they are less distinct due to the silhouette style. The boundaries between facial regions are clear, and there is no visible non-face or background content.",67,80,Result_2/original/face_029_idx74.json,Result_2/mooney/face_029_idx74.json,cuda
+face_030_idx413,face_030_idx413.png,face_030_idx413.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a dark-colored uniform with a peaked cap. The individual has short, dark hair and is looking directly at the camera. The background appears to be a clear blue sky.","The image is a black and white silhouette. It appears to depict a person with a distinct head shape and a visible ear. The facial features are not clearly distinguishable due to the silhouette style. The boundaries between different facial regions are not clear, making it difficult to identify specific details such as eyes, eyebrows, nose, and mouth. There is no visible non-face or background content in the image.",35,69,Result_2/original/face_030_idx413.json,Result_2/mooney/face_030_idx413.json,cuda
+face_031_idx25,face_031_idx25.png,face_031_idx25.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long blonde hair wearing sunglasses and an orange headband. The person is smiling, revealing their teeth. The background appears to be outdoors with greenery and a clear sky. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The boundaries between these regions are clear. There is no visible non-face or background content other than the natural outdoor setting.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible due to the silhouette style.
+   - Eyebrows: The eyebrows are faintly visible as curved lines above the eyes.
+   - Nose: The nose is not distinctly visible.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a typical human head and shoulders orientation.
+4. The boundaries between facial regions appear clear.
+5. There is no visible non-face or background content in the image.",69,138,Result_2/original/face_031_idx25.json,Result_2/mooney/face_031_idx25.json,cuda
+face_032_idx259,face_032_idx259.png,face_032_idx259.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a hat with a dark band and light-colored beads. The hat appears to have a feather or similar decorative element on the left side. The person has long, wavy hair that extends past the shoulders. The background is blurred but appears to be red.","The image is a black and white silhouette with a person's head and shoulders visible. The person appears to have short hair and is wearing a hat. The facial features such as the face outline, eyes, eyebrows, nose, mouth, and ears are distinguishable. The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",50,62,Result_2/original/face_032_idx259.json,Result_2/mooney/face_032_idx259.json,cuda
+face_033_idx87,face_033_idx87.png,face_033_idx87.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The face is partially obscured by another person's hand, which is holding the hair of the person whose face is visible. The visible facial features include the face outline, eyes, eyebrows, nose, and mouth. The ears are not visible due to the hand covering them. The boundaries between the facial regions are somewhat clear but may be slightly ambiguous due to the hand's presence. There is no visible non-face or background content in the image.","The image is a black and white illustration. It depicts a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the stylized nature of the drawing.
+- Eyebrows: Not distinctly visible.
+- Nose: Not distinctly visible.
+- Mouth: Not distinctly visible.
+- Ears: Not distinctly visible.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",84,70,Result_2/original/face_033_idx87.json,Result_2/mooney/face_033_idx87.json,cuda
+face_034_idx771,face_034_idx771.png,face_034_idx771.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and eyelids.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with a slight curve.
+- Mouth: Slightly open, showing the upper lip.
+- Ears: Partially visible on the right side.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette with a human face visible. The face outline is clear, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable but not detailed. The ears are partially visible on either side of the head. The boundaries between facial regions are clear. There is no visible non-face or background content.",70,64,Result_2/original/face_034_idx771.json,Result_2/mooney/face_034_idx771.json,cuda
+face_035_idx121,face_035_idx121.png,face_035_idx121.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to glasses.
+- Eyebrows: Not distinctly visible due to glasses.
+- Nose: Clearly visible.
+- Mouth: Partially visible, showing a slight smile.
+- Ears: Partially visible on the right side.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The outlines of the eyes are faintly visible.
+   - Eyebrows: The outlines of the eyebrows are faintly visible.
+   - Nose: The outline of the nose is faintly visible.
+   - Mouth: The outline of the mouth is faintly visible.
+   - Ears: The outlines of the ears are faintly visible.
+3. The relative positions and visible shapes of these regions suggest that the person is facing slightly to the left, with their head tilted downward.
+4. The boundaries between facial regions appear to be clear.
+5. There is no visible non-face or background content in the image.",69,147,Result_2/original/face_035_idx121.json,Result_2/mooney/face_035_idx121.json,cuda
+face_036_idx157,face_036_idx157.png,face_036_idx157.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","Yes, a human face is visible in the image. The facial regions that can be visually distinguished include the face outline, eyes, eyebrows, nose, mouth, and ears. The face is centered in the image, with the eyes looking slightly to the left. The eyebrows are visible above the eyes, the nose is prominent, and the mouth is open, showing teeth. The ears are partially visible on either side of the head. The boundaries between these facial regions appear clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette. It shows two human figures. The left figure has a distinct head shape with visible hair and an ear. The right figure's head is less defined but appears to have a similar structure. There are no clear facial features such as eyes, eyebrows, nose, or mouth visible. The boundaries between the figures' heads are clear, but the details within the heads are indistinct due to the silhouette style. No other objects or background elements are visible in the image.",90,87,Result_2/original/face_036_idx157.json,Result_2/mooney/face_036_idx157.json,cuda
+face_037_idx235,face_037_idx235.png,face_037_idx235.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with a slight curve.
+- Mouth: Partially visible, showing teeth.
+- Ears: Partially visible, with the left ear more prominent.
+
+The background appears to be dark, possibly indicating an indoor setting with lighting focused on the subject's face. There are some indistinct shapes and text in the background, but they are not clearly discernible.","The image is a black and white silhouette. It appears to show a person's head and shoulders. The facial features are not clearly distinguishable due to the silhouette style. The outline of the head, including the hair, is visible. There are no distinct facial features such as eyes, eyebrows, nose, mouth, or ears that can be clearly seen. The boundaries between different parts of the head are not clear, making it difficult to determine the exact shape and position of each region. The image does not contain any visible non-face or background content.",85,93,Result_2/original/face_037_idx235.json,Result_2/mooney/face_037_idx235.json,cuda
+face_038_idx352,face_038_idx352.png,face_038_idx352.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The facial features visible include:
+
+- Face outline: Clear
+- Eyes: Visible with distinct eyelashes
+- Eyebrows: Visible above the eyes
+- Nose: Clearly defined
+- Mouth: Smiling, showing teeth
+- Ears: One ear is visible with an earring
+
+There is no visible background or additional objects in the image.","The image is a black and white silhouette with a person's head and shoulders visible. The face outline is clearly defined, showing the shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable, though the details within these regions are not clear due to the silhouette style. The ears are also visible but not detailed. The boundaries between the facial regions are clear. There is no visible non-face or background content in the image.",59,78,Result_2/original/face_038_idx352.json,Result_2/mooney/face_038_idx352.json,cuda
+face_039_idx757,face_039_idx757.png,face_039_idx757.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with eyelashes and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Partially visible, with one earlobe showing.
+
+There is no clear boundary between the facial regions. The background appears to be out of focus, with some indistinct shapes and colors, including a red object and green foliage.","The image is a black and white line drawing. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: The entire face is outlined with a single continuous line.
+- Eyes: The eyes are represented by two oval shapes.
+- Eyebrows: The eyebrows are depicted as curved lines above the eyes.
+- Nose: The nose is shown as a straight line.
+- Mouth: The mouth is indicated by a small curved line.
+- Ears: The left ear is visible as a small triangular shape.
+
+The boundaries between these facial regions are clear and distinct. There is no visible non-face or background content in the image.",79,113,Result_2/original/face_039_idx757.json,Result_2/mooney/face_039_idx757.json,cuda
+face_040_idx321,face_040_idx321.png,face_040_idx321.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a child's face. The child has light-colored hair with some strands falling over the forehead. The facial features visible include the eyes, which appear to be looking slightly to the side, eyebrows, nose, and mouth. The ears are partially visible on either side of the head. The background is out of focus, with indistinct shapes and colors suggesting an outdoor setting. The boundaries between facial regions are clear, but the edges of the hair and the background are somewhat blurred.","The image shows a black silhouette of a person's head and shoulders. The silhouette includes the following facial features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",86,93,Result_2/original/face_040_idx321.json,Result_2/mooney/face_040_idx321.json,cuda
+face_041_idx225,face_041_idx225.png,face_041_idx225.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with visible facial features. The face outline is clear, and the facial regions include the eyes, eyebrows, nose, mouth, and ears. The eyes are open, and the eyebrows are slightly arched. The nose is visible, and the mouth is closed. The ears are partially visible on either side of the head. The background appears to be plain and neutral in color.","The image shows a black and white silhouette of a person's head and shoulders. The face outline is clearly visible, including the shape of the head, neck, and shoulders. The facial features such as the eyes, eyebrows, nose, and mouth are distinguishable but not detailed. The ears are also visible, though they are not as sharply defined as the rest of the face. The boundaries between the facial regions are clear, with no ambiguity. There is no visible non-face or background content in the image.",67,85,Result_2/original/face_041_idx225.json,Result_2/mooney/face_041_idx225.json,cuda
+face_042_idx745,face_042_idx745.png,face_042_idx745.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with curly hair. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being discernible. The ears are also visible. The background appears to be a solid color, likely blue, with no distinct patterns or objects. The boundaries between facial regions are clear. There is a microphone attached to the person's ear.","The image appears to be a black and white silhouette of a person's profile. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible but may be present as dark spots.
+   - Eyebrows: The eyebrows are not distinctly visible.
+   - Nose: The nose is not clearly defined.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a profile view of the person.
+4. The boundaries between facial regions appear to be clear.
+5. There is no visible non-face or background content in the image.",67,134,Result_2/original/face_042_idx745.json,Result_2/mooney/face_042_idx745.json,cuda
+face_043_idx148,face_043_idx148.png,face_043_idx148.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a child's face with visible facial features. The child has dark hair, which appears to be shoulder-length. The child is wearing a sleeveless top with blue and green stripes. The background consists of a natural setting with some rocks and possibly grass or dirt. The child's face is the main focus of the image.","The image appears to be a black and white silhouette of a human face. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the face is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are not distinctly visible.
+   - Nose: The nose is not clearly defined.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a typical human face structure, with the eyes being the most prominent features.
+4. The boundaries between facial regions are somewhat clear, especially for the eyes and mouth areas.
+5. There is no visible non-face or background content in the image.",57,143,Result_2/original/face_043_idx148.json,Result_2/mooney/face_043_idx148.json,cuda
+face_044_idx550,face_044_idx550.png,face_044_idx550.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with visible facial features. The face outline is clear, and the facial regions include the eyes, eyebrows, nose, mouth, and ears. The eyes are open and looking directly at the camera, the eyebrows are slightly raised, the nose is prominent, the mouth is closed, and the ears are visible. The background appears to be a plain, light-colored surface. There are no visible non-face or background elements.","The image is a black and white silhouette of a person's head and shoulders. The silhouette shows the following facial features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",72,91,Result_2/original/face_044_idx550.json,Result_2/mooney/face_044_idx550.json,cuda
+face_045_idx562,face_045_idx562.png,face_045_idx562.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a colorful headpiece adorned with green leaves and flowers. The headpiece features a yellow and gold crown with a blue gemstone at the center. The person has dark hair, and their face is partially visible. The facial regions that can be distinguished include the face outline, eyes, eyebrows, nose, and mouth. The ears are also visible. The boundaries between these facial regions are clear. There is no visible background content in the image.","The image appears to be a black and white silhouette with no discernible features such as a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different areas of the silhouette are clear, but there is no indication of any specific facial features or details. The image does not contain any visible non-face or background content.",79,58,Result_2/original/face_045_idx562.json,Result_2/mooney/face_045_idx562.json,cuda
+face_046_idx228,face_046_idx228.png,face_046_idx228.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with a defined shape.
+- Mouth: Visible, with a slight smile.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+There is no visible non-face or background content in the image.","The image is a black and white silhouette. It appears to depict a person with a distinct head shape and hairline. The facial features are not clearly distinguishable due to the silhouette style. The outline of the head, including the hair, is visible, but specific details such as the eyes, eyebrows, nose, mouth, and ears are not clearly defined. The boundaries between different facial regions are not clear, making it difficult to discern any specific features. There is no visible non-face or background content in the image.",64,87,Result_2/original/face_046_idx228.json,Result_2/mooney/face_046_idx228.json,cuda
+face_047_idx42,face_047_idx42.png,face_047_idx42.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with a clear view of the following facial regions:
+
+- Face outline: Visible
+- Eyes: Clear
+- Eyebrows: Visible
+- Nose: Clear
+- Mouth: Partially visible
+- Ears: Partially visible
+
+The boundaries between these regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette. It shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",54,89,Result_2/original/face_047_idx42.json,Result_2/mooney/face_047_idx42.json,cuda
+face_048_idx306,face_048_idx306.png,face_048_idx306.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face. The facial features visible include:
+
+- Face outline: The shape of the face is discernible.
+- Eyes: The eyes are open and visible.
+- Eyebrows: The eyebrows are visible above the eyes.
+- Nose: The nose is visible.
+- Mouth: The mouth is slightly open, showing teeth.
+- Ears: The ears are partially visible on either side of the head.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: The shape of the head and neck is visible.
+- Eyes: The eyes are not clearly distinguishable due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible.
+- Nose: The nose is slightly visible.
+- Mouth: The mouth is partially visible.
+- Ears: The ears are not distinctly visible.
+
+The boundaries between facial regions are somewhat clear, but the details are limited due to the silhouette style. There is no visible non-face or background content in the image.",88,106,Result_2/original/face_048_idx306.json,Result_2/mooney/face_048_idx306.json,cuda
+face_049_idx92,face_049_idx92.png,face_049_idx92.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a visible face. The facial features include:
+
+- Face outline: Clear
+- Eyes: Not visible due to sunglasses
+- Eyebrows: Not visible due to sunglasses
+- Nose: Visible
+- Mouth: Visible
+- Ears: Not visible
+
+There is no clear boundary between the facial regions. The background includes some indistinct shapes and colors, suggesting an outdoor setting with people and possibly buildings.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. The image appears to be a stylized representation rather than a photograph of a real person.",67,58,Result_2/original/face_049_idx92.json,Result_2/mooney/face_049_idx92.json,cuda
+face_050_idx484,face_050_idx484.png,face_050_idx484.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The following details are visible:
+
+- Face outline: The face is partially visible, with the upper part of the face showing.
+- Eyes: The eyes are closed.
+- Eyebrows: The eyebrows are visible above the eyes.
+- Nose: The nose is partially visible.
+- Mouth: The mouth is slightly open.
+- Ears: One ear is visible on the right side of the face.
+- Background: There is a red curtain in the background.
+
+The boundaries between facial regions are clear, and there is no ambiguity in the visibility of these features.","The image is a black and white silhouette with a clear outline of a human head and shoulders. The facial features are not distinctly visible due to the silhouette style. The outline includes the general shape of the head, neck, and shoulders. There are no clear details of the facial features such as eyes, eyebrows, nose, mouth, or ears. The boundaries between different parts of the body are clear, but the specific details of the facial features are indiscernible. The background is solid black, with no additional objects or patterns visible.",100,91,Result_2/original/face_050_idx484.json,Result_2/mooney/face_050_idx484.json,cuda
+face_051_idx34,face_051_idx34.png,face_051_idx34.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with eyelashes and irises discernible.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with nostrils and bridge distinct.
+- Mouth: Visible, with teeth showing.
+- Ears: Partially visible, with the left ear more prominent.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette with a high contrast between light and dark areas. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The eyes are not clearly distinguishable due to the silhouette style.
+- Eyebrows: The eyebrows are faintly visible but not distinctly defined.
+- Nose: The nose is faintly visible but not clearly defined.
+- Mouth: The mouth is faintly visible but not distinctly defined.
+- Ears: The ears are faintly visible but not distinctly defined.
+
+The boundaries between facial regions are clear, as the silhouette style allows for distinct separation of the different facial features. There is no visible non-face or background content in the image.",71,133,Result_2/original/face_051_idx34.json,Result_2/mooney/face_051_idx34.json,cuda
+face_052_idx56,face_052_idx56.png,face_052_idx56.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with a slight curve.
+- Mouth: Smiling, showing teeth.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The shape of the head and neck is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are not distinctly visible.
+   - Nose: The nose is not clearly defined.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not distinctly visible.
+3. The relative positions and visible shapes of these regions suggest a profile view of the person's head.
+4. The boundaries between facial regions are somewhat clear, especially around the eyes and ears.
+5. There is no visible non-face or background content in the image.",62,139,Result_2/original/face_052_idx56.json,Result_2/mooney/face_052_idx56.json,cuda
+face_053_idx442,face_053_idx442.png,face_053_idx442.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Partially visible, showing the side profile.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Clearly visible, with a slight curve.
+- Mouth: Smiling, with visible teeth.
+- Ears: Partially visible, with one ear more prominently shown than the other.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette with a circular boundary. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: Clearly visible around the circular boundary.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",78,101,Result_2/original/face_053_idx442.json,Result_2/mooney/face_053_idx442.json,cuda
+face_054_idx520,face_054_idx520.png,face_054_idx520.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with visible facial features. The face outline is clear, and the facial regions include the eyes, eyebrows, nose, mouth, and ears. The eyes are open and looking upwards, the eyebrows are slightly raised, the nose is visible, and the mouth is smiling. The ears are partially visible on either side of the head. The background consists of green foliage, indicating an outdoor setting. The boundaries between the facial regions are clear.","The image appears to be a black and white silhouette with some white speckles scattered throughout. There is no clear depiction of a human face. The areas that might represent facial features such as the face outline, eyes, eyebrows, nose, mouth, and ears are not distinctly visible due to the lack of clear contrast. The boundaries between these regions are ambiguous, making it difficult to determine their exact shapes or positions. The overall appearance suggests an abstract or stylized representation rather than a realistic depiction of a human face.",77,89,Result_2/original/face_054_idx520.json,Result_2/mooney/face_054_idx520.json,cuda
+face_055_idx45,face_055_idx45.png,face_055_idx45.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a bald head. The facial features visible include the face outline, eyes, eyebrows, nose, and mouth. The ears are also visible. The background includes buildings and trees, suggesting an outdoor setting. The boundaries between facial regions appear clear. There is no visible non-face content in the image.","The image appears to be a black and white silhouette with a blurred, indistinct shape. It is difficult to determine if a human face is visible due to the lack of clear details. The facial regions that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The outlines of the eyes are faintly visible.
+- Ears: The outlines of the ears are slightly discernible.
+- Nose: The outline of the nose is faintly visible.
+- Mouth: The outline of the mouth is barely visible.
+
+The boundaries between these regions are ambiguous, as the image lacks clear definition. There is no visible non-face or background content in the image.",53,118,Result_2/original/face_055_idx45.json,Result_2/mooney/face_055_idx45.json,cuda
+face_056_idx708,face_056_idx708.png,face_056_idx708.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Visible, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Visible, with earrings.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette with a human face visible. The face outline is clearly defined, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable, though the details within these regions are not clear due to the silhouette style. The ears are also visible but not detailed. The boundaries between facial regions are clear, as the silhouette technique isolates the face from the background. There is no visible non-face or background content in the image.",64,88,Result_2/original/face_056_idx708.json,Result_2/mooney/face_056_idx708.json,cuda
+face_057_idx761,face_057_idx761.png,face_057_idx761.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a blurred background. The visible facial features include:
+
+- Face outline: Clear
+- Eyes: Visible, with distinct pupils and eyelashes
+- Eyebrows: Visible, slightly arched
+- Nose: Visible, with nostrils and bridge
+- Mouth: Visible, with lips and teeth
+- Ears: Not visible
+
+There is no visible non-face or background content in the image.","The image shows a black and white illustration of a human face. The face is partially obscured by a shadow or silhouette effect. The following facial regions are visually distinguishable:
+
+- Face outline: The general shape of the face is visible, but it is partially covered by a shadow.
+- Eyes: The eyes are visible as dark oval shapes.
+- Eyebrows: The eyebrows are faintly visible above the eyes.
+- Nose: The nose is visible as a triangular shape.
+- Mouth: The mouth is visible as a small, curved line.
+- Ears: The ears are not distinctly visible due to the shadowing.
+
+The boundaries between these facial regions are somewhat clear, but they are not entirely distinct due to the shadow effect. There is no visible non-face or background content in the image.",60,133,Result_2/original/face_057_idx761.json,Result_2/mooney/face_057_idx761.json,cuda
+face_058_idx368,face_058_idx368.png,face_058_idx368.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with light brown hair. The face is partially visible, with the left side of the face and part of the ear being more prominent. The person is wearing an orange scarf. The background appears to be green foliage.","The image appears to be a black and white silhouette with a person's head and shoulders visible. The face outline is discernible, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are visible, but the details such as the pupils, eyelashes, and specific features of the nose and mouth are not clearly defined due to the silhouette style. The ears are also visible, though they are less distinct than the other facial features. The boundaries between the facial regions are clear, and there is no visible non-face or background content.",43,96,Result_2/original/face_058_idx368.json,Result_2/mooney/face_058_idx368.json,cuda
+face_059_idx409,face_059_idx409.png,face_059_idx409.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a graduation cap. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being discernible. The ears are also visible, with one earring clearly seen. The background appears to be an outdoor setting with a clear sky. The boundaries between facial regions are clear, and there is no ambiguity in the visibility of the features.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are visible as dark spots.
+   - Eyebrows: The eyebrows are faintly visible above the eyes.
+   - Nose: The nose is slightly visible.
+   - Mouth: The mouth is slightly open.
+   - Ears: The ears are visible on either side of the head.
+3. The relative positions and visible shapes of these regions suggest a frontal view of the person.
+4. The boundaries between facial regions appear clear.
+5. There is no visible non-face or background content in the image.",71,132,Result_2/original/face_059_idx409.json,Result_2/mooney/face_059_idx409.json,cuda
+face_060_idx645,face_060_idx645.png,face_060_idx645.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a dark blue cap with ""COACH SMITH"" written in yellow letters. The person has short hair and is looking slightly to the side. The background appears to be outdoors, with some greenery and a blurred figure in the distance. The focus is on the person's face and upper body.","The image appears to be a black and white silhouette with a person's head and shoulders visible. The face outline is discernible, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are visible, but the details such as the pupils, eyelashes, and specific features of the nose and mouth are not clearly defined due to the silhouette style. The ears are also visible, though they are less distinct than the other facial features. The boundaries between the facial regions are clear, and there is no visible non-face or background content.",55,96,Result_2/original/face_060_idx645.json,Result_2/mooney/face_060_idx645.json,cuda
+face_061_idx567,face_061_idx567.png,face_061_idx567.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two human faces. The face on the left has a face outline, eyes, eyebrows, nose, and mouth. The face on the right has a face outline, eyes, eyebrows, nose, and mouth. Both faces have visible ears. The left face is partially obscured by the right face. The background appears to be an outdoor setting with a blurred ground and possibly some vegetation.","The image is a black and white illustration. It depicts a human face with the following features:
+
+- Face outline: The face is outlined in black, with the head tilted slightly to the left.
+- Eyes: The eyes are visible, with the upper eyelids and irises clearly defined.
+- Eyebrows: The eyebrows are visible above the eyes.
+- Nose: The nose is visible, with the nostrils and bridge of the nose clearly defined.
+- Mouth: The mouth is visible, with the lips and teeth clearly defined.
+- Ears: The ears are partially visible, with the top of the ears and part of the earlobes showing.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",65,124,Result_2/original/face_061_idx567.json,Result_2/mooney/face_061_idx567.json,cuda
+face_062_idx91,face_062_idx91.png,face_062_idx91.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two human faces. The face on the left is partially visible with a blurred background. The face on the right has red hair, visible eyebrows, eyes, nose, mouth, and an earring. The boundaries between facial regions are clear. There is a blurred background with some text and images, but specific details are indistinct.","The image appears to be a black and white illustration. It shows a human face with the following features:
+
+- Face outline: The face is outlined in black, with no internal details visible.
+- Eyes: The eyes are depicted as two small, oval shapes near the top of the head.
+- Eyebrows: The eyebrows are not clearly distinguishable due to the lack of internal details.
+- Nose: The nose is represented by a small, curved line.
+- Mouth: The mouth is indicated by a small, curved line.
+- Ears: The ears are not visible in this illustration.
+
+The boundaries between facial regions are clear, but the internal details of the face are not visible. There is no visible non-face or background content in the image.",56,125,Result_2/original/face_062_idx91.json,Result_2/mooney/face_062_idx91.json,cuda
+face_063_idx795,face_063_idx795.png,face_063_idx795.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a child's face. The child has short brown hair and is smiling. The child's eyes are wide open, and the eyebrows are slightly raised. The nose is visible, and the mouth is open, showing teeth. The ears are partially visible on either side of the head. The child is wearing a blue jacket with a hood. The background is blurred, making it difficult to discern any specific details.","The image appears to be a black and white illustration with a stylized human face. The face outline is clearly defined, showing the shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable, though the details within these regions are somewhat abstract and simplified. The ears are not clearly visible due to the stylization. The boundaries between the facial regions are relatively clear. There is no visible non-face or background content in the image.",74,78,Result_2/original/face_063_idx795.json,Result_2/mooney/face_063_idx795.json,cuda
+face_064_idx7,face_064_idx7.png,face_064_idx7.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The visible facial features include:
+
+- Face outline: Clear
+- Eyes: Visible with distinct pupils
+- Eyebrows: Present but not detailed
+- Nose: Visible with nostrils
+- Mouth: Smiling, showing teeth
+- Ears: Partially visible
+
+There is no clear boundary between the facial regions. The background appears to be out of focus, suggesting it is not the main subject of the image.","The image appears to be a black and white silhouette with no discernible features such as a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are not clear, making it difficult to determine if any specific facial features are present. There is no visible non-face or background content in the image.",71,57,Result_2/original/face_064_idx7.json,Result_2/mooney/face_064_idx7.json,cuda
+face_065_idx454,face_065_idx454.png,face_065_idx454.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face visible. The facial features include:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with lips and teeth.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+The background includes a tiled wall on the left side and a bright light source on the right side, creating a contrast. There are no other visible objects or details in the image.","The image is a black and white silhouette. It appears to depict a person with a head and shoulders. The head is tilted slightly downward, and the neck is visible. The facial features are not clearly distinguishable due to the silhouette style. The boundaries between different facial regions are ambiguous, making it difficult to identify specific features such as the eyes, eyebrows, nose, mouth, and ears. There is no clear indication of any non-face or background content within the image.",90,80,Result_2/original/face_065_idx454.json,Result_2/mooney/face_065_idx454.json,cuda
+face_066_idx506,face_066_idx506.png,face_066_idx506.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a wide-brimmed hat with a brown band. The hat has a decorative element on the front. The person's face is partially visible, showing the side profile. The facial features include the ear, part of the cheek, and the side of the nose. The background appears to be an indoor setting with some indistinct objects and lighting.","The image appears to be a black and white illustration or drawing. It shows a human face with the following features:
+
+- Face outline: The entire face is visible, including the head and neck.
+- Eyes: The eyes are depicted as two small circles near the top of the head.
+- Eyebrows: The eyebrows are drawn above the eyes.
+- Nose: The nose is visible, but it is simplified and not detailed.
+- Mouth: The mouth is represented by a curved line at the bottom of the face.
+- Ears: The ears are not distinctly visible; they are not shown in detail.
+
+The boundaries between facial regions are clear, and there is no ambiguity in the depiction of the face. There are no visible non-face or background elements in the image.",62,131,Result_2/original/face_066_idx506.json,Result_2/mooney/face_066_idx506.json,cuda
+face_067_idx15,face_067_idx15.png,face_067_idx15.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with short hair that has a mix of dark and light colors. The hair appears to be styled in a way that some strands are slightly disheveled. The person's face is partially visible, with the upper part of their head and neck showing. The facial features include the eyes, eyebrows, nose, and mouth. The ears are also visible. The background is blurred, making it difficult to discern any specific details about the environment. The boundaries between the facial regions are clear, but the overall image quality is low, making some details indistinct.","The image is a black and white silhouette. It appears to show a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",97,89,Result_2/original/face_067_idx15.json,Result_2/mooney/face_067_idx15.json,cuda
+face_068_idx423,face_068_idx423.png,face_068_idx423.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with curly, light brown hair. The face is partially obscured by a small, light-colored dog's head, which is positioned near the person's face. The person has a visible nose, mouth, and part of their ear. The background appears to be an outdoor setting with some indistinct elements. The boundaries between the facial regions are clear, but the visibility of the ears is limited due to the dog's head being in front of them.","The image appears to be a black and white silhouette of a person's face. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the face is discernible.
+   - Eyes: The eyes are not clearly visible but appear as dark spots.
+   - Eyebrows: The eyebrows are faintly visible as dark lines.
+   - Nose: The nose is not distinctly visible.
+   - Mouth: The mouth is not clearly visible.
+   - Ears: The ears are not visible due to the silhouette style.
+3. The relative positions and visible shapes of these regions suggest a typical human face layout.
+4. The boundaries between facial regions are clear.
+5. There is no visible non-face or background content.",78,130,Result_2/original/face_068_idx423.json,Result_2/mooney/face_068_idx423.json,cuda
+face_069_idx231,face_069_idx231.png,face_069_idx231.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a graduation cap. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being discernible. The ears are not visible in the image. The background appears to be dark, possibly indicating an indoor setting. The boundaries between facial regions are clear. There is no visible non-face or background content other than the person's attire.","The image appears to be a black and white silhouette of a person's head and shoulders. The facial features are not clearly distinguishable due to the silhouette style. The outline of the head and shoulders is visible, but no specific details such as eyes, eyebrows, nose, mouth, or ears can be discerned. The boundaries between different facial regions are not clear, making it difficult to identify any specific features. There is no visible non-face or background content in the image.",70,80,Result_2/original/face_069_idx231.json,Result_2/mooney/face_069_idx231.json,cuda
+face_070_idx164,face_070_idx164.png,face_070_idx164.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two human faces. The left side of the image includes part of a person's face, with visible features such as an ear and part of the cheek. The right side of the image shows another person's face, with visible features including the forehead, eyebrows, eyes, nose, mouth, and part of the ear. The ears have earrings. The background appears to be outdoors, with some greenery visible. The boundaries between the facial regions are clear. There is no visible non-face or background content other than the individuals' faces.","The image appears to be a black and white silhouette with a person's head and shoulders visible. The face outline is clearly defined, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable, though the details within these regions are not clear due to the silhouette style. The ears are also visible but not detailed. The boundaries between the facial regions are clear, and there is no visible non-face or background content.",90,79,Result_2/original/face_070_idx164.json,Result_2/mooney/face_070_idx164.json,cuda
+face_071_idx303,face_071_idx303.png,face_071_idx303.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long blonde hair. The face is partially visible, with the upper part of the face, including the forehead, eyebrows, nose, and mouth, being clearly discernible. The eyes are closed, and the cheeks appear to be slightly flushed. The ears are not visible in the image. The background appears to be an outdoor setting with some blurred elements that suggest it might be a natural environment, possibly with foliage or plants. The boundaries between facial regions are clear, and there are no visible non-face or background contents that can be distinctly identified.","The image appears to be a black and white silhouette with a high contrast between light and dark areas. The following features can be visually distinguished:
+
+1. **Face Outline**: The overall shape of the face is visible, but specific facial features like eyes, eyebrows, nose, and mouth are not clearly defined due to the silhouette style.
+2. **Eyes**: The eyes are not distinctly visible as they are obscured by the silhouette effect.
+3. **Eyebrows**: The eyebrows are faintly visible but not clearly defined.
+4. **Nose**: The nose is not distinctly visible.
+5. **Mouth**: The mouth is not distinctly visible.
+6. **Ears**: The ears are not distinctly visible.
+
+The boundaries between facial regions are clear, but the details within each region are indistinct due to the silhouette style. There is no visible non-face or background content in the image.",97,138,Result_2/original/face_071_idx303.json,Result_2/mooney/face_071_idx303.json,cuda
+face_072_idx477,face_072_idx477.png,face_072_idx477.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a child's face. The child has light-colored hair and is wearing a white garment. The child's face is partially obscured by a dark-colored object, likely a piece of clothing or fabric. The child's eyes, eyebrows, nose, and mouth are visible, but the ears are not clearly discernible due to the angle and positioning of the head. The boundaries between the facial features are somewhat clear, but the overall visibility is limited due to the partial obstruction. There is no visible background content in the image.","The image appears to be a black and white silhouette of a human face. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the face is discernible.
+   - Eyes: The eyes are partially visible with a circular shape.
+   - Eyebrows: The eyebrows are faintly visible above the eyes.
+   - Nose: The nose is slightly visible.
+   - Mouth: The mouth is barely visible at the bottom of the image.
+   - Ears: The ears are not distinctly visible due to the silhouette style.
+3. The relative positions and visible shapes of these regions suggest a profile view of the face.
+4. The boundaries between facial regions appear clear.
+5. There is no visible non-face or background content in the image.",91,137,Result_2/original/face_072_idx477.json,Result_2/mooney/face_072_idx477.json,cuda
+face_073_idx83,face_073_idx83.png,face_073_idx83.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a blurred background. The individual has short black hair and is wearing glasses. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The outlines of the eyes are faintly visible.
+   - Eyebrows: The outlines of the eyebrows are faintly visible.
+   - Nose: The outline of the nose is faintly visible.
+   - Mouth: The outline of the mouth is faintly visible.
+   - Ears: The outlines of the ears are faintly visible.
+3. The relative positions and visible shapes of these regions suggest that the person is facing forward with their head slightly tilted.
+4. The boundaries between facial regions appear to be clear.
+5. There is no visible non-face or background content in the image.",52,144,Result_2/original/face_073_idx83.json,Result_2/mooney/face_073_idx83.json,cuda
+face_074_idx441,face_074_idx441.png,face_074_idx441.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face. The face outline is visible, with the eyes, eyebrows, nose, and mouth clearly defined. The ears are also visible, with the left ear more prominently shown. The background appears to be blurred, but there is a hint of a white object, possibly a hat, on the left side of the image. The boundaries between facial regions are clear, and no other non-face or background content is distinctly visible.","The image appears to be a black and white silhouette with a blurred background. The silhouette shows the outline of a person's head and shoulders. The facial features are not distinctly visible due to the silhouette style. The outline suggests the presence of a face, but specific details such as eyes, eyebrows, nose, mouth, and ears are not clearly discernible. The boundaries between different facial regions are not clear, making it difficult to identify individual features. There is no visible non-face or background content in the image.",77,87,Result_2/original/face_074_idx441.json,Result_2/mooney/face_074_idx441.json,cuda
+face_075_idx280,face_075_idx280.png,face_075_idx280.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with short hair that appears to have a mix of blonde and dark brown colors. The hair is parted slightly to the side. The person is wearing a necklace with a small pendant. The background is neutral, possibly beige or light brown, with a partial view of a door frame on the left side. The facial features visible include the face outline, eyes, eyebrows, nose, and mouth. The ears are not visible in the image. The boundaries between facial regions are clear. There is no visible non-face or background content other than the mentioned elements.","The image is a black and white silhouette of a person's head and shoulders. The following features are visually distinguishable:
+
+1. Face outline: The outline of the face is clearly visible, showing the shape of the head and neck.
+2. Eyes: The eyes are not distinctly visible due to the silhouette style.
+3. Eyebrows: The eyebrows are faintly visible but not clearly defined.
+4. Nose: The nose is not distinctly visible.
+5. Mouth: The mouth is not distinctly visible.
+6. Ears: The ears are not distinctly visible.
+
+The boundaries between facial regions are clear, as the silhouette technique isolates the outline of the face from the background. There is no visible non-face or background content in the image.",100,118,Result_2/original/face_075_idx280.json,Result_2/mooney/face_075_idx280.json,cuda
+face_076_idx700,face_076_idx700.png,face_076_idx700.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a person's face, with the focus on the upper part of their face. The person has blonde hair. The facial features visible include the face outline, eyes, eyebrows, nose, and mouth. The ears are not visible in this image. The boundaries between the facial regions are clear. There is no visible non-face or background content in this image.","The image appears to be a black and white silhouette with a blurred, indistinct shape. It is difficult to determine if a human face is visible due to the lack of clear details. The facial regions that can be distinguished include:
+
+- Face outline: The general shape of the head and neck is visible.
+- Eyes: The outlines of the eyes are faintly visible.
+- Eyebrows: The outlines of the eyebrows are slightly discernible.
+- Nose: The outline of the nose is barely visible.
+- Mouth: The outline of the mouth is faintly seen.
+- Ears: The outlines of the ears are barely noticeable.
+
+The boundaries between these facial regions are ambiguous and unclear. There is no clear distinction between the different facial features. The image does not contain any visible non-face or background content.",64,135,Result_2/original/face_076_idx700.json,Result_2/mooney/face_076_idx700.json,cuda
+face_077_idx233,face_077_idx233.png,face_077_idx233.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two individuals. One person is wearing a black lace mask with a gold frame, covering their left eye and part of their face. The other person has a crown adorned with jewels and a golden design, and is smiling. The background appears to be indoors with warm lighting.","The image appears to be a black and white illustration or drawing. It shows a human face with the following features:
+
+- Face outline: The entire face is outlined in white against a black background.
+- Eyes: The eyes are visible as two dark oval shapes.
+- Eyebrows: The eyebrows are drawn above the eyes.
+- Nose: The nose is depicted as a curved line.
+- Mouth: The mouth is shown as a curved line.
+- Ears: The ears are partially visible on either side of the head.
+
+The boundaries between these facial regions are clear and distinct. There is no visible non-face or background content in the image.",51,109,Result_2/original/face_077_idx233.json,Result_2/mooney/face_077_idx233.json,cuda
+face_078_idx320,face_078_idx320.png,face_078_idx320.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with a human face. The facial features visible include the face outline, eyes, eyebrows, nose, mouth, and ears. The left ear is partially visible, and the right ear is not visible. The person's hand is raised to their right side, with fingers pointing upwards. The background appears to be an indoor setting with some blurred elements, possibly furniture or windows. The boundaries between facial regions are clear, and there are no visible non-face or background contents that are distinctly discernible.","The image is a black and white silhouette. It appears to depict a person with a face outline, including the general shape of the head, neck, and shoulders. The facial features such as the eyes, eyebrows, nose, and mouth are not distinctly visible due to the silhouette style. The ears are also not clearly distinguishable. The boundaries between different facial regions are somewhat ambiguous due to the lack of detailed shading or texture. There is no visible non-face or background content in the image.",85,84,Result_2/original/face_078_idx320.json,Result_2/mooney/face_078_idx320.json,cuda
+face_079_idx468,face_079_idx468.png,face_079_idx468.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Partially visible, showing the side profile.
+- Eyes: Not clearly visible due to the angle and lighting.
+- Eyebrows: Not clearly visible.
+- Nose: Partially visible.
+- Mouth: Partially visible, showing a slight smile.
+- Ears: Partially visible, with an earring on the left ear.
+
+The boundaries between facial regions are somewhat clear, but some details are obscured by the angle and lighting. There is no visible non-face or background content in the image.","The image shows a silhouette of a person's head and shoulders. The face outline is visible, but specific facial features such as eyes, eyebrows, nose, mouth, and ears are not discernible due to the silhouette style. The boundaries between different facial regions are clear. There is no visible non-face or background content in the image.",87,55,Result_2/original/face_079_idx468.json,Result_2/mooney/face_079_idx468.json,cuda
+face_080_idx344,face_080_idx344.png,face_080_idx344.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils.
+- Mouth: Visible, with teeth showing.
+- Ears: Partially visible, with one earlobe clearly seen.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette. It appears to depict a human face. The facial features that can be distinguished include:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",65,93,Result_2/original/face_080_idx344.json,Result_2/mooney/face_080_idx344.json,cuda
+face_081_idx775,face_081_idx775.png,face_081_idx775.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","Yes, a human face is visible. The facial regions that can be distinguished include the face outline, eyes, eyebrows, nose, mouth, and ears. The face is centered in the image, with the eyes looking slightly to the side. The eyebrows are visible above the eyes, the nose is prominent, and the mouth is open, showing teeth. The ears are partially visible on either side of the head. The boundaries between these regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette with a human face visible. The face outline is clear, showing the general shape of the head and neck. The eyes, eyebrows, nose, mouth, and ears are distinguishable. The eyes are oval-shaped, the eyebrows are arched, the nose is straight, the mouth is closed, and the ears are visible on either side of the head. The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",85,82,Result_2/original/face_081_idx775.json,Result_2/mooney/face_081_idx775.json,cuda
+face_082_idx594,face_082_idx594.png,face_082_idx594.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with green irises.
+- Eyebrows: Present above the eyes.
+- Nose: Visible.
+- Mouth: Smiling, showing teeth.
+- Ears: Not visible in the image.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The eyes are represented by two small, oval shapes.
+   - Eyebrows: The eyebrows are indicated by two curved lines above the eyes.
+   - Nose: The nose is depicted as a vertical line.
+   - Mouth: The mouth is shown as a curved line.
+   - Ears: The ears are represented by two small, rounded shapes on either side of the head.
+3. The relative positions and visible shapes of these regions suggest a frontal view of the person's head.
+4. The boundaries between facial regions appear clear.
+5. There is no visible non-face or background content in the image.",53,149,Result_2/original/face_082_idx594.json,Result_2/mooney/face_082_idx594.json,cuda
+face_083_idx366,face_083_idx366.png,face_083_idx366.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a young child with light brown hair. The child is wearing a pink shirt and holding a gold medal with a green ribbon around their neck. The child's face is partially visible, showing the outline of the face, eyes, eyebrows, nose, mouth, and part of the ears. The background includes other people, some of whom are wearing white shirts, and there is an apple visible to the left side of the child's head. The boundaries between facial regions are clear, but the background elements are less distinct.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. There is no visible non-face or background content.",90,50,Result_2/original/face_083_idx366.json,Result_2/mooney/face_083_idx366.json,cuda
+face_084_idx351,face_084_idx351.png,face_084_idx351.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Visible, slightly arched.
+- Nose: Visible, with a straight shape.
+- Mouth: Visible, with a slight smile.
+- Ears: Not visible in the image.
+
+There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette. It shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Not distinctly visible due to the silhouette style.
+- Eyebrows: Not distinctly visible due to the silhouette style.
+- Nose: Not distinctly visible due to the silhouette style.
+- Mouth: Not distinctly visible due to the silhouette style.
+- Ears: Not distinctly visible due to the silhouette style.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",58,89,Result_2/original/face_084_idx351.json,Result_2/mooney/face_084_idx351.json,cuda
+face_085_idx264,face_085_idx264.png,face_085_idx264.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelids and irises.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Smiling, showing teeth.
+- Ears: Partially visible on the right side.
+
+There is no visible non-face or background content in the image.","The image is a black and white silhouette of a person's head and shoulders. The face outline is visible, but specific facial features such as eyes, eyebrows, nose, mouth, and ears are not distinctly discernible due to the silhouette style. The boundaries between different facial regions appear clear. There is no visible non-face or background content in the image.",59,59,Result_2/original/face_085_idx264.json,Result_2/mooney/face_085_idx264.json,cuda
+face_086_idx270,face_086_idx270.png,face_086_idx270.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with a slight curve.
+- Mouth: Visible, with a slight smile.
+- Ears: Partially visible on either side of the head.
+
+There is a blurred background with indistinct shapes and colors, suggesting an outdoor setting with greenery and possibly some structures or equipment.","The image is a black and white silhouette with a blurred, indistinct shape. It appears to depict a human figure, but specific facial features such as eyes, eyebrows, nose, mouth, and ears are not clearly visible due to the lack of detail. The boundaries between different parts of the figure are not clear, making it difficult to determine the exact shape and position of the head and shoulders. There is no discernible background or additional objects present in the image.",74,80,Result_2/original/face_086_idx270.json,Result_2/mooney/face_086_idx270.json,cuda
+face_087_idx565,face_087_idx565.png,face_087_idx565.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long, dark hair. The face is partially obscured by sunglasses, making it difficult to see specific facial features such as the eyes, eyebrows, nose, and mouth. The ears are visible but not distinctly shaped. The background appears to be an outdoor setting with light-colored vertical elements, possibly a fence or wall. The overall focus is on the hair and the sunglasses, with the rest of the face being less discernible.","The image is a black and white silhouette with a person's head and shoulders visible. The face outline is clearly defined, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable but appear as dark, solid shapes without any internal details. The ears are also visible, though they are less distinct due to the silhouette style. The boundaries between the facial regions are clear, and there is no visible non-face or background content.",76,80,Result_2/original/face_087_idx565.json,Result_2/mooney/face_087_idx565.json,cuda
+face_088_idx149,face_088_idx149.png,face_088_idx149.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long, dark hair. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being clearly discernible. The ears are not visible in the image. The background appears to be a textured surface, possibly a wall or curtain. The boundaries between the facial features are clear, and there is no ambiguity in their visibility.","The image appears to be a black and white silhouette with a human face visible. The face outline is clearly defined, showing the general shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable but appear as dark shapes against the lighter background. The ears are not visible in this silhouette. The boundaries between facial regions are clear, and there is no visible non-face or background content.",69,71,Result_2/original/face_088_idx149.json,Result_2/mooney/face_088_idx149.json,cuda
+face_089_idx798,face_089_idx798.png,face_089_idx798.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long, straight brown hair. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being clearly discernible. The ears are not visible in the image. The background appears to be an outdoor setting with a chain-link fence and some indistinct structures. The boundaries between facial regions are clear, and there are no visible non-face or background elements that are not part of the person's head and shoulders.","The image appears to be a black and white illustration. It shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with nostrils.
+- Mouth: Visible, with lips.
+- Ears: Not clearly visible due to the style of the illustration.
+
+The boundaries between facial regions are clear. There is no visible non-face or background content.",83,72,Result_2/original/face_089_idx798.json,Result_2/mooney/face_089_idx798.json,cuda
+face_090_idx155,face_090_idx155.png,face_090_idx155.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a child's face. The child has curly hair and is wearing a blue shirt. The child's face is partially obscured by another person's hand, which is holding the child. The child's eyes, nose, mouth, and ears are visible. The boundaries between the facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette with no discernible features such as a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. There is no visible non-face or background content in the image.",63,51,Result_2/original/face_090_idx155.json,Result_2/mooney/face_090_idx155.json,cuda
+face_091_idx322,face_091_idx322.png,face_091_idx322.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of an elderly person's face. The face outline is clearly visible, with distinct features such as the eyes, eyebrows, nose, and mouth. The ears are partially visible on either side of the head. The background includes a colorful headdress with various patterns and colors, but no other specific details can be discerned about the background. The boundaries between facial regions are clear.","The image is a black and white illustration with a high contrast effect. It depicts a human face with a halo-like structure around it. The face outline is clearly visible, showing the shape of the head and neck. The facial features, including the eyes, eyebrows, nose, and mouth, are distinguishable but appear somewhat abstract due to the stylized nature of the drawing. The ears are not distinctly visible. The halo-like structure extends outward from the top of the head, creating a radiating effect. There are no other objects or background elements present in the image.",67,95,Result_2/original/face_091_idx322.json,Result_2/mooney/face_091_idx322.json,cuda
+face_092_idx298,face_092_idx298.png,face_092_idx298.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person wearing a graduation cap. The face is visible, with the following features discernible:
+
+- Face outline: Clear
+- Eyes: Visible, with dark irises
+- Eyebrows: Visible, slightly arched
+- Nose: Visible, straight
+- Mouth: Smiling, showing teeth
+- Ears: Visible, with earrings
+
+The background appears to be blurred, focusing attention on the person's face. There are no other distinct objects or features visible in the image.","The image appears to be a black and white illustration of a human face. The face outline is clearly defined, showing the shape of the head and neck. The eyes, eyebrows, nose, and mouth are distinguishable, with the eyes being oval-shaped and the eyebrows arched above them. The nose is straight and the mouth is open, revealing teeth. The ears are partially visible on either side of the head. The boundaries between the facial regions are clear, and there is no visible non-face or background content.",71,86,Result_2/original/face_092_idx298.json,Result_2/mooney/face_092_idx298.json,cuda
+face_093_idx339,face_093_idx339.png,face_093_idx339.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a close-up of a human face. The visible facial regions include the face outline, eyes, eyebrows, nose, mouth, and part of the ear. The face appears to be turned slightly to the side. The background is an orange color with some blurred text and shapes. The boundaries between facial regions are clear, but the details of the background are not distinct.","The image shows a silhouette of a human face. The face outline is visible, but specific facial features such as eyes, eyebrows, nose, mouth, and ears are not distinctly discernible due to the black and white nature of the image. The boundaries between different facial regions appear clear. There is no visible non-face or background content in the image.",64,59,Result_2/original/face_093_idx339.json,Result_2/mooney/face_093_idx339.json,cuda
+face_094_idx288,face_094_idx288.png,face_094_idx288.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Present, slightly arched.
+- Nose: Visible, with nostrils.
+- Mouth: Visible, with lips.
+- Ears: Partially visible, with one ear more prominently shown than the other.
+
+There is no visible non-face or background content in the image.","The image is a black and white silhouette with no discernible features. There is no clear depiction of a human face, eyes, eyebrows, nose, mouth, or ears. The boundaries between different facial regions are ambiguous due to the lack of detailed features. There is no visible non-face or background content.",60,50,Result_2/original/face_094_idx288.json,Result_2/mooney/face_094_idx288.json,cuda
+face_095_idx304,face_095_idx304.png,face_095_idx304.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct eyelashes.
+- Eyebrows: Visible, slightly arched.
+- Nose: Visible, with a natural shape.
+- Mouth: Visible, with a closed position.
+- Ears: Partially visible, with an earring on the left ear.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image is a black and white silhouette with no discernible features such as a human face, eyes, eyebrows, nose, mouth, or ears. There are no visible non-face or background elements. The boundaries between different regions are not clear due to the lack of distinct features.",70,46,Result_2/original/face_095_idx304.json,Result_2/mooney/face_095_idx304.json,cuda
+face_096_idx175,face_096_idx175.png,face_096_idx175.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a human face with the following features:
+
+- Face outline: Clearly visible.
+- Eyes: Visible, with distinct pupils and irises.
+- Eyebrows: Present, slightly raised.
+- Nose: Visible, with nostrils and bridge.
+- Mouth: Visible, with teeth and lips.
+- Ears: Partially visible, with the left ear more prominently shown.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.","The image appears to be a black and white silhouette with a high contrast edge. The following features can be visually distinguished:
+
+1. **Face Outline**: The edges of the head and neck are clearly defined.
+2. **Eyes**: The outlines of the eyes are visible but not detailed.
+3. **Eyebrows**: The outlines of the eyebrows are discernible.
+4. **Nose**: The shape of the nose is slightly visible.
+5. **Mouth**: The outline of the mouth is faintly visible.
+6. **Ears**: The outlines of the ears are distinguishable.
+
+The boundaries between these facial regions are relatively clear. There is no visible non-face or background content in the image.",72,105,Result_2/original/face_096_idx175.json,Result_2/mooney/face_096_idx175.json,cuda
+face_097_idx331,face_097_idx331.png,face_097_idx331.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with long blonde hair styled in twin tails. The hair appears to be well-groomed and voluminous. The person is wearing a headband with colorful elements, including blue and yellow accents. The background is blurred, making it difficult to discern specific details about the surroundings.","The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:
+
+1. A human face is visible.
+2. The facial regions that are visually distinguishable include:
+   - Face outline: The general shape of the head and neck is discernible.
+   - Eyes: The outlines of the eyes are visible, but specific details such as pupils or irises are not clear.
+   - Eyebrows: The outlines of the eyebrows are visible.
+   - Nose: The outline of the nose is discernible.
+   - Mouth: The outline of the mouth is visible.
+   - Ears: The outlines of the ears are visible.
+3. The relative positions and visible shapes of these regions suggest that the person is facing forward with their head slightly tilted.
+4. The boundaries between facial regions appear clear.
+5. There is no visible non-face or background content in the image.",49,148,Result_2/original/face_097_idx331.json,Result_2/mooney/face_097_idx331.json,cuda
+face_098_idx440,face_098_idx440.png,face_098_idx440.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows two individuals. One person has short black hair and is wearing glasses. The other individual, who appears to be a child, has short black hair and is wearing a red garment. The background is blurred but seems to be an indoor setting with warm lighting.","The image appears to be a black and white silhouette of three people standing close together. The faces are not clearly distinguishable due to the silhouette style. The outlines of the heads and shoulders are visible, but no facial features such as eyes, eyebrows, noses, mouths, or ears can be discerned. The boundaries between the individuals' faces are not clear, suggesting they are overlapping or obscured by the silhouette technique. There is no visible non-face or background content in the image.",48,81,Result_2/original/face_098_idx440.json,Result_2/mooney/face_098_idx440.json,cuda
+face_099_idx128,face_099_idx128.png,face_099_idx128.png,Qwen/Qwen2.5-VL-3B-Instruct,"Describe only what is visually observable in this image.
+
+Focus on:
+1. Whether a human face is visible.
+2. Which facial regions are visually distinguishable:
+   face outline, eyes, eyebrows, nose, mouth and ears.
+3. The relative positions and visible shapes of these regions.
+4. Whether the boundaries between facial regions are clear or ambiguous.
+5. Any visible non-face or background content.
+
+Do not infer identity, age, gender, ethnicity, personality or other
+personal characteristics.
+
+Do not assume that a missing detail is absent. Distinguish between
+a feature that is not visible and one that cannot be clearly discerned.
+
+Be concise. Explicitly mention uncertainty where appropriate.","The image shows a person with curly hair tied back. The face is partially visible, with the upper part of the face, including the forehead, eyes, eyebrows, nose, and mouth, being discernible. The ears are also visible. The background appears to be out of focus, with some indistinct shapes and colors. The boundaries between facial regions are clear. There is no visible non-face or background content that can be clearly discerned.","The image is a black and white silhouette of a person's head and shoulders. The following features are visually distinguishable:
+
+- Face outline: The silhouette shows the general shape of the head and neck.
+- Eyes: The eyes are visible as dark spots within the silhouette.
+- Eyebrows: The eyebrows are faintly visible above the eyes.
+- Nose: The nose is slightly visible as a dark line.
+- Mouth: The mouth is faintly visible as a dark line.
+- Ears: The ears are faintly visible as small dark shapes.
+
+The boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",71,108,Result_2/original/face_099_idx128.json,Result_2/mooney/face_099_idx128.json,cuda

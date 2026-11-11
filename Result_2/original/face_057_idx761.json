@@ -1,0 +1,13 @@
+{
+    "image_stem": "face_057_idx761",
+    "image_file": "face_057_idx761.png",
+    "condition": "original",
+    "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "prompt": "Describe only what is visually observable in this image.\n\nFocus on:\n1. Whether a human face is visible.\n2. Which facial regions are visually distinguishable:\n   face outline, eyes, eyebrows, nose, mouth and ears.\n3. The relative positions and visible shapes of these regions.\n4. Whether the boundaries between facial regions are clear or ambiguous.\n5. Any visible non-face or background content.\n\nDo not infer identity, age, gender, ethnicity, personality or other\npersonal characteristics.\n\nDo not assume that a missing detail is absent. Distinguish between\na feature that is not visible and one that cannot be clearly discerned.\n\nBe concise. Explicitly mention uncertainty where appropriate.",
+    "response": "The image shows a person with a blurred background. The visible facial features include:\n\n- Face outline: Clear\n- Eyes: Visible, with distinct pupils and eyelashes\n- Eyebrows: Visible, slightly arched\n- Nose: Visible, with nostrils and bridge\n- Mouth: Visible, with lips and teeth\n- Ears: Not visible\n\nThere is no visible non-face or background content in the image.",
+    "response_word_count": 60,
+    "max_new_tokens": 256,
+    "device": "cuda",
+    "gpu_name": "Tesla T4",
+    "generated_at_utc": "2026-11-11T16:55:37.952125+00:00"
+}

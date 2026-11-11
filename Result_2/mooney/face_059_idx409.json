@@ -1,0 +1,13 @@
+{
+    "image_stem": "face_059_idx409",
+    "image_file": "face_059_idx409.png",
+    "condition": "mooney",
+    "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "prompt": "Describe only what is visually observable in this image.\n\nFocus on:\n1. Whether a human face is visible.\n2. Which facial regions are visually distinguishable:\n   face outline, eyes, eyebrows, nose, mouth and ears.\n3. The relative positions and visible shapes of these regions.\n4. Whether the boundaries between facial regions are clear or ambiguous.\n5. Any visible non-face or background content.\n\nDo not infer identity, age, gender, ethnicity, personality or other\npersonal characteristics.\n\nDo not assume that a missing detail is absent. Distinguish between\na feature that is not visible and one that cannot be clearly discerned.\n\nBe concise. Explicitly mention uncertainty where appropriate.",
+    "response": "The image appears to be a black and white silhouette of a person's head and shoulders. The following details can be observed:\n\n1. A human face is visible.\n2. The facial regions that are visually distinguishable include:\n   - Face outline: The general shape of the head and neck is discernible.\n   - Eyes: The eyes are visible as dark spots.\n   - Eyebrows: The eyebrows are faintly visible above the eyes.\n   - Nose: The nose is slightly visible.\n   - Mouth: The mouth is slightly open.\n   - Ears: The ears are visible on either side of the head.\n3. The relative positions and visible shapes of these regions suggest a frontal view of the person.\n4. The boundaries between facial regions appear clear.\n5. There is no visible non-face or background content in the image.",
+    "response_word_count": 132,
+    "max_new_tokens": 256,
+    "device": "cuda",
+    "gpu_name": "Tesla T4",
+    "generated_at_utc": "2026-11-11T16:56:03.787935+00:00"
+}

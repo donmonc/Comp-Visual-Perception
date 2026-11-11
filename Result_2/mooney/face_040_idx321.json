@@ -1,0 +1,13 @@
+{
+    "image_stem": "face_040_idx321",
+    "image_file": "face_040_idx321.png",
+    "condition": "mooney",
+    "model_id": "Qwen/Qwen2.5-VL-3B-Instruct",
+    "prompt": "Describe only what is visually observable in this image.\n\nFocus on:\n1. Whether a human face is visible.\n2. Which facial regions are visually distinguishable:\n   face outline, eyes, eyebrows, nose, mouth and ears.\n3. The relative positions and visible shapes of these regions.\n4. Whether the boundaries between facial regions are clear or ambiguous.\n5. Any visible non-face or background content.\n\nDo not infer identity, age, gender, ethnicity, personality or other\npersonal characteristics.\n\nDo not assume that a missing detail is absent. Distinguish between\na feature that is not visible and one that cannot be clearly discerned.\n\nBe concise. Explicitly mention uncertainty where appropriate.",
+    "response": "The image shows a black silhouette of a person's head and shoulders. The silhouette includes the following facial features:\n\n- Face outline: Clearly visible.\n- Eyes: Not distinctly visible due to the silhouette style.\n- Eyebrows: Not distinctly visible due to the silhouette style.\n- Nose: Not distinctly visible due to the silhouette style.\n- Mouth: Not distinctly visible due to the silhouette style.\n- Ears: Not distinctly visible due to the silhouette style.\n\nThe boundaries between these facial regions are clear. There is no visible non-face or background content in the image.",
+    "response_word_count": 93,
+    "max_new_tokens": 256,
+    "device": "cuda",
+    "gpu_name": "Tesla T4",
+    "generated_at_utc": "2026-11-11T16:53:00.612205+00:00"
+}
